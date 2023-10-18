@@ -1,0 +1,7 @@
+.env
+backend/classDB
+log.txt
+bun.lockb
+uw-course-map/.env
+backend/.env
+
